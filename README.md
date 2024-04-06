@@ -46,7 +46,7 @@ Skills: PYTHON, HTML, CSS, JAVA
 <h2>MY SOCIAL MEDIA<h2/>
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/P4RVEJ-69) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/profile.php?id=100083176569981) <br>
-[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=yellow&labelColor=red)](https://facebook.com/groups/737172040863921/) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=blue)](https://www.facebook.com/parvej.1943?mibextid=ZbWKwL) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=yellow&labelColor=red)](https://m.facebook.com/groups/1239122847046947/?ref=share&mibextid=NSMWBT) <br>
 
 <h2> THANKS FOR VISIT <h2\>
